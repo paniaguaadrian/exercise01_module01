@@ -28,20 +28,19 @@ nav {
 .articles {
   display: flex;
   flex-direction: column;
-  width: 75vh;
-  height: 180px;
-  padding: 10px 20px 0px 20px;
+  width: 60%;
+  height: 100%;
+  padding: 10px 20px 10px 20px;
   background-color: yellow;
 }
 
 article {
-  margin-bottom: 10px;
   background-color: orange;
 }
 
 aside {
   display: flex;
-  width: 75vh;
+  width: 50%;
   padding: 0;
   margin: 0;
   background-color: rgba(128, 128, 128, 0.678);
